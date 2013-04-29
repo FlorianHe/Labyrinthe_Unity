@@ -1,0 +1,14 @@
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1090]
+    Renderer: NVIDIA NVS 5100M
+    Vendor:   NVIDIA
+    VRAM:     1024 MB
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-02E86458 (this message is harmless)
+Non platform assembly: data-02EEA8D0 (this message is harmless)
+Non platform assembly: data-02EEBF48 (this message is harmless)
+Platform assembly: C:\Users\helain_f\Documents\Formation\Mother Of Bugs\Switch\Sample\Switch_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\helain_f\Documents\Formation\Mother Of Bugs\Switch\Sample\Switch_Data\Managed\UnityScript.Lang.dll (this message is harmless)
